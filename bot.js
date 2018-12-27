@@ -1149,7 +1149,7 @@ client.on('ready',  () => {
 client.on('ready', function(){
     client.user.setStatus("dnd");
     var ms = 100000 ;
-    var setGame = [`!help Servers ${client.guilds.size} `,`!invite Users ${client.users.size}`];
+    var setGame = [`By Baàààààààd`];
     var i = -1;
     var j = 0;
     setInterval(function (){
@@ -13419,4 +13419,4 @@ client.on("message", message => {
 	} 
 });
 
-client.login('NTI3ODgxNTE0OTQ0Mjk5MDQ4.DwaOeQ.O3hKZsh6ou4NNu_gmRMq3142fGw');
+client.login('NTI3ODgxNTE0OTQ0Mjk5MDQ4.Dwae6Q.PA7Fnp-wvotMnzK-3uOQV3od5Q4');
